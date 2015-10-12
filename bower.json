@@ -1,0 +1,25 @@
+{
+  "name": "boiler_plate",
+  "version": "0.0.1",
+  "authors": [
+    "jp <john.paul@favoritemedium.com>"
+  ],
+  "description": "components for boilet template",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#~3.3.5",
+    "font-awesome": "fontawesome#~4.4.0"
+  }
+}
